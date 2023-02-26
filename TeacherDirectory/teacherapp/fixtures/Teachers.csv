@@ -1,0 +1,11 @@
+model,First Name,Last Name,Profile picture,Email Address,Phone Number,Room Number,Subjects taught
+teacherapp.TeacherDetails,Laticia,Landen,21167.JPG,teacher1@school.com,-591,3a,"Computer science, Physics"
+teacherapp.TeacherDetails,Maryjane,Marcum,21196.JPG,teacher2@school.com,-599,1c,Mathematics
+teacherapp.TeacherDetails,Josephina,Janecek,21239.JPG,teach3@school.com,-1045,1a,History
+teacherapp.TeacherDetails,Tamela,Tomblin,21309.JPG,teach1@school.com,-442,2d,"geography, Computer science, Biology, Chemistry"
+teacherapp.TeacherDetails,Bernardo,Bains, ,teach4@school.com,-813,7a,"Mathematics, Physics"
+teacherapp.TeacherDetails,Cordelia,Carpio,21350.JPG,teach5@school.com,-337,12E,"Computer Science, Maths"
+teacherapp.TeacherDetails,Soon,Shott,21529.JPG,teach6@school.com,-912,11a,"English, Arabic"
+teacherapp.TeacherDetails,Martha,Mcloughlin,21530.jpg,teach7@school.com,-335,7G,"Mathematics, physics, chemistry, biology, history, english"
+teacherapp.TeacherDetails,Arlinda,Arehart,21578.jpg,teach8@school.com,-1051,8b,History
+teacherapp.TeacherDetails,Bernardo,Bains,21744.JPG,teach9@school.com,-1030,4c,"Physics, Biology"
